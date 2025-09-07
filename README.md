@@ -8,15 +8,15 @@ PowerShell
 
 python -m venv venv
 Sanal Ortamı Etkinleştirin:
-## Şimdi, oluşturduğunuz sanal ortamı etkinleştirin. Bu, bundan sonra çalıştıracağınız komutların bu ortamdaki Python'ı kullanmasını sağlayacaktır.
+ Şimdi, oluşturduğunuz sanal ortamı etkinleştirin. Bu, bundan sonra çalıştıracağınız komutların bu ortamdaki Python'ı kullanmasını sağlayacaktır.
 
 PowerShell
 
 .\venv\Scripts\Activate
-## Komutu çalıştırdıktan sonra terminal satırınızın başında (venv) yazdığını göreceksiniz. Bu, sanal ortamın etkin olduğunu gösterir.
+ Komutu çalıştırdıktan sonra terminal satırınızın başında (venv) yazdığını göreceksiniz. Bu, sanal ortamın etkin olduğunu gösterir.
 
 Gereksinimleri Kurun:
-## Sanal ortam etkin durumdayken, Flask ve boto3 paketlerini sorunsuz bir şekilde kurabilirsiniz.
+ Sanal ortam etkin durumdayken, Flask ve boto3 paketlerini sorunsuz bir şekilde kurabilirsiniz.
 
 PowerShell
 
